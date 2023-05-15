@@ -1,0 +1,17 @@
+================
+COMMANDS TO RUN 
+================
+
+1. npm create vite@latest 
+
+2. Select Variant, ie React 
+
+3. Select JavaScript or TypeScript and or SWC 
+
+4. cd into named React folder
+
+5. npm install 
+
+6. npm run dev 
+
+8. Bob's your uncle
