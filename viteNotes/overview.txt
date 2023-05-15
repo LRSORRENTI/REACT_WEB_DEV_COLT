@@ -1,0 +1,53 @@
+====
+VITE
+====
+
+npm create vite@latest
+
+What is Vite? Why do we use it for React apps?
+
+We use Vite to:
+
+Fast development server: Vite is known for its
+ extremely fast development server. It leverages 
+ ES modules, which allows for near-instantaneous
+  hot module replacement (HMR) updates during development.
+   This means that developers can see their changes 
+   reflected in the browser almost instantly, leading 
+   to a highly efficient development workflow.
+
+Lightweight and minimal configuration: Vite takes a 
+minimalistic approach to configuration. It requires
+ fewer configuration files and settings compared to
+  other build tools like webpack or Create React App.
+   Vite aims to provide a smooth out-of-the-box 
+   experience, reducing the initial setup time
+    and complexity for developers.
+
+ESM-based build pipeline: Vite utilizes ES
+ modules (ESM) as the primary module format,
+  which allows for faster module resolution 
+  and bundling. Instead of bundling all the code 
+  into a single file during development, Vite serves 
+  individual modules directly to the browser, 
+  resulting in faster load times.
+
+Support for native ES modules: Vite fully 
+embraces native ES modules, allowing developers 
+to use them directly in their codebase without
+ the need for a bundler. This can lead to 
+ cleaner and more maintainable code by utilizing
+  the ES module syntax and features.
+
+Plugin ecosystem: Vite offers a plugin-based
+ architecture that allows developers to extend 
+ its functionality easily. The plugin ecosystem
+  around Vite has been growing rapidly, providing
+   additional features, integrations, 
+   and optimizations for React projects.
+
+It's worth mentioning that Vite is not limited 
+to React projects and can be used with other
+ frameworks as well. However, its excellent
+  performance and developer experience have
+   made it particularly popular within the React community.
